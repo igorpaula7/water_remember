@@ -1,6 +1,4 @@
 from winotify import Notification, audio
-import time
-
 
 toast = Notification(app_id="Beba água",
                      title="Beba água",
